@@ -1,6 +1,6 @@
 # cli-video-convertor-software
 
-cli-video-format controller is a terminal or CLI based application program to convert the format of a video to desired target format.
+cli-video-format convertor is a terminal or CLI based application program to convert the format of a video to desired target format.
 Audio conversion is not yet possible. 
 
 A GUI version for user friendliness is also under development. 
